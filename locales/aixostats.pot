@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: aiXoStats\n"
+"Report-Msgid-Bugs-To: Ek@@aixo.fr\n"
+"POT-Creation-Date: 2008-05-08 20:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Ek0 <Ek0@aixo.fr>\n"
+"Language-Team: aiXo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "aiXoStats settings"
+msgstr ""
+
+msgid "For further information and help, check <a href=\"http://www.aixo.fr/aixostats\">the official aiXoStats plugin page.</a><br/>aiXoStats was written by <a href=\"http://www.aixo.fr/contact\">Ek0</a> for <a href=\"http://www.aixo.fr\">aiXo.fr</a>."
+msgstr ""
+
+msgid "General options"
+msgstr ""
+
+msgid "Automatically tag known visitors (Woopra, reInvigorate)"
+msgstr ""
+
+msgid "Ban site administrators"
+msgstr ""
+
+msgid "Ban your IP adress from statistics"
+msgstr ""
+
+msgid "IP adress to ban (your current IP is"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "Your Google Analytics ID (UA-XXXXXXX-X)"
+msgstr ""
+
+msgid "Your Woopra ID"
+msgstr ""
+
+msgid "Your reInvigorate ID"
+msgstr ""
+
+msgid "Your Sitemeter ID"
+msgstr ""
+
+msgid "Your Sitemeter ID (first part, example:"
+msgstr ""
+
+msgid "Your Sitemeter ID (personalized part)"
+msgstr ""
+
+msgid "Your Clicky ID"
+msgstr ""
+
+msgid "Logged administrators are not tracked."
+msgstr ""
+
+msgid "Your IP adress is not tracked"
+msgstr ""

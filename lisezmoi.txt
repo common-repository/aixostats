@@ -1,0 +1,27 @@
+=== aiXoStats ===
+autheur:Ek0
+page du plugin: http://www.aixo.fr/aixostats
+site: http://www.aixo.fr
+Testé jusqu'à la version: 2.5.1
+
+aiXoStats vous aide à gérer facilement vos statistiques.
+
+== Description ==
+
+aiXoStats est un plugin pour Wordpress vous permettant de gérer facilement l'insertion des codes de vos services de statistiques.
+
+    * Support de Google Analytics, Woopra, reInvigorate, Sitemeter, Clicky
+    * Name tagging pour Woopra et reInvigorate: affichage des pseudo, email et avatars des visiteurs connus dans votre application de bureau (désactivable)
+    * Possibilité des bannir les administrateurs du blog des statistiques: plus besoin de configurer sur le site du service (quand c'est possible), le code de tracking n'est pas inséré pour les admins (désactivable)
+    * Possibilité de bannir une adresse IP des statistiques.
+
+
+== Installation ==
+
+1. Uploadez le répertoire aixostats/ dans /wp-content/plugins/
+2. Activez le plugin dans le menu "extensions" de Wordpress
+3. Configurez-le à partir du panneau Réglages->aiXoStats.
+
+== Screenshots ==
+
+1. screenshot.png: interface d'administration
